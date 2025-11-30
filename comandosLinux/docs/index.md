@@ -11,4 +11,4 @@ Usa el menú de la izquierda (Sección 1, Sección 2) para empezar a explorar lo
 
 Aquí tienes un ejemplo visual de un entorno de terminal.
 
-![Terminal Linux] (./imgs/terminal.png)
+![Terminal Linux](./imgs/terminal.png)

@@ -2,7 +2,6 @@
 
 Estos comandos te permiten moverte por el sistema de archivos, listar su contenido, y manipular archivos y directorios.
 
-![Terminal Linux] (./imgs/terminal.webp)
 
 !!! tip "Comandos de navegación y archivos en Linux"
     Estos son algunos de los comandos más usados para moverte por el sistema y gestionar archivos:
