@@ -1,0 +1,19 @@
+site_name: Comandos basicos de Linux
+
+site_author: Michael Jorques & Alberto Belda
+site_description: Esta pagina vamos a mostrar algunos de los comandos basicos de los comandos basicos de Linux para navegar en este entorno.
+
+nav:
+  -  'Introducción': 'index.md'
+
+  -  'Seccion 1':
+
+      - 'Inicio': 'Inicio/navegacionyarchivos.md'
+      - 'Subseccion 1.1': 'seccion1/visualizacionyedicion.md'
+      - 'Subseccion 1.2': 'seccion1/sistemayprocesos.md'
+
+
+  - 'Seccion 2': 'seccion2/ayudayconsejos.md'
+
+theme:
+  name: 'readthedocs'
