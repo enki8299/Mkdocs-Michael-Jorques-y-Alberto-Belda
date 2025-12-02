@@ -1,4 +1,4 @@
-## 📝 Comandos de Visualización y Edición
+## Comandos de Visualización y Edición
 
 Estos comandos se utilizan para ver el contenido de los archivos de texto.
 

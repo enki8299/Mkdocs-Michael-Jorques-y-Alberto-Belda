@@ -1,4 +1,4 @@
-## ⚙️ Comandos del Sistema y Procesos
+## Comandos del Sistema y Procesos
 
 Comandos para interactuar con el sistema operativo, gestionar usuarios y procesos.
 

@@ -1,4 +1,4 @@
-## 📁 Comandos de Navegación y Archivos
+## Comandos de Navegación y Archivos
 
 Estos comandos te permiten moverte por el sistema de archivos, listar su contenido, y manipular archivos y directorios.
 
@@ -6,7 +6,7 @@ Estos comandos te permiten moverte por el sistema de archivos, listar su conteni
 !!! tip "Comandos de navegación y archivos en Linux"
     Estos son algunos de los comandos más usados para moverte por el sistema y gestionar archivos:
 
-    ### 🔍 Navegación
+    ### Navegación
     - **`pwd`** — Muestra la ruta del directorio actual.
     - **`ls`** — Lista archivos y carpetas.
     - **`ls -l`** — Lista detallada (permisos, tamaño, fechas).
@@ -14,7 +14,7 @@ Estos comandos te permiten moverte por el sistema de archivos, listar su conteni
     - **`cd ..`** — Sube un nivel.
     - **`cd ~`** — Va al directorio personal.
 
-    ### 📁 Archivos y directorios
+    ### Archivos y directorios
     - **`touch archivo`** — Crea un archivo vacío.
     - **`mkdir carpeta`** — Crea un directorio.
     - **`cp origen destino`** — Copia archivos o carpetas.
@@ -22,4 +22,4 @@ Estos comandos te permiten moverte por el sistema de archivos, listar su conteni
     - **`rm archivo`** — Elimina un archivo.
     - **`rm -r carpeta`** — Elimina un directorio y su contenido.
 
-    💡 *Usa `man comando` para ver documentación detallada.*
+     *Usa `man comando` para ver documentación detallada.*
